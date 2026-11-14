@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="214" viewBox="0 0 460 214" role="img" aria-label="rock-5c: media · smart home · personal cloud">
+<style>
+text{font:13px ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,monospace}
+.b{font-weight:700}
+.bg{fill:#1e1e2e}.bar{fill:#181825}.line{stroke:#313244}.t{fill:#cdd6f4}.k{fill:#a6adc8}.d{fill:#6c7086}.p{fill:#cba6f7}.a{fill:#89b4fa}.ok{fill:#a6e3a1}.r{fill:#f38ba8}.y{fill:#f9e2af}.g{fill:#a6e3a1}
+@media (prefers-color-scheme:light){.bg{fill:#eff1f5}.bar{fill:#e6e9ef}.line{stroke:#ccd0da}.t{fill:#4c4f69}.k{fill:#6c6f85}.d{fill:#9ca0b0}.p{fill:#8839ef}.a{fill:#1e66f5}.ok{fill:#40a02b}.r{fill:#d20f39}.y{fill:#df8e1d}.g{fill:#40a02b}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.35}}
+</style>
+<rect class="bg" width="460" height="214" rx="10"/>
+<path class="bar" d="M0 10a10 10 0 0 1 10-10h440a10 10 0 0 1 10 10v20H0z"/>
+<circle class="r" cx="18" cy="15" r="5"/><circle class="y" cx="34" cy="15" r="5"/><circle class="g" cx="50" cy="15" r="5"/>
+<text x="230.0" y="19" text-anchor="middle" class="d">rock-5c</text>
+<text x="24" y="56"><tspan class="p b">❯</tspan><tspan class="a b"> rock-5c</tspan><tspan class="d"> ~ </tspan><tspan class="t">status</tspan></text>
+<text x="24" y="84" class="k">role</text><text x="132" y="84" class="t">media · smart home · personal cloud</text><text x="24" y="108" class="k">board</text><text x="132" y="108" class="t">Radxa Rock 5C</text><text x="24" y="132" class="k">containers</text><text x="132" y="132" class="a">47 running</text><text x="24" y="156" class="k">uptime</text><text x="132" y="156" class="a">12d 0h</text>
+<line class="line" x1="24" x2="436" y1="184" y2="184" stroke-width="1"/>
+<circle class="ok pulse" cx="28" cy="199" r="4"/>
+<text x="40" y="203" class="k">online</text>
+<text x="436" y="203" text-anchor="end" class="d">as of 2026-11-14 15:33 -03</text>
+</svg>
